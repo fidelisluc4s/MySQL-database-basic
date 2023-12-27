@@ -1,5 +1,5 @@
 
-/*Tabela EMPREGADO2:
+/*Tabela EMPRESA2:
 Inclua o atributo CPF do tipo caractere com 11 dígitos;*/
 
 alter table empregado add column cpf char(11),
