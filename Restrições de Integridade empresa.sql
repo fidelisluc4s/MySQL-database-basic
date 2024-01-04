@@ -17,7 +17,7 @@ CREATE TABLE empregado (
     codigo_cargo DECIMAL(5),
     endereco VARCHAR(50),
     bairro VARCHAR(20),
-    cidade VARCHAR(20),
+    cidade VARCHAR(20), 
     codigo_chefe DECIMAL(6),
     uf CHAR(2),
     data_nasc DATE,
